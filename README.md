@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer building cross-platform solutions using Flutter, Android, ASP.NET, and more. I believe in writing clean, maintainable code and designing scalable systems. Whether it's a mobile app, a web dashboard, or a full-stack enterprise solution, I bring ideas to life with performance and polish.
+I’m Md. Mujahid Islam, a Senior Software Engineer at United Finance PLC with expertise in developing scalable native, cross-platform, and enterprise-grade applications. I specialize in Flutter (Dart), Android (Java), iOS (SwiftUI), ASP.NET (C#), Oracle (PL/SQL), and MS SQL Server. I emphasize clean architecture (SOLID, MVC, MVP, MVVM), high performance, and robust system design to deliver efficient, maintainable software solutions.
 
 ---
 
