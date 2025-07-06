@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mujahid Islam 👋</h1>
 
-<!--
-**mbiplobe/mbiplobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Full-Stack Software Engineer | Mobile + Web Development<br>
+  📱 Flutter • Android • ASP.NET MVC • Oracle • SQL • Kotlin • Swift • C#<br>
+  🧠 Clean Architecture • MVVM • MVC • REST APIs
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate software engineer building cross-platform solutions using Flutter, Android, ASP.NET, and more. I believe in writing clean, maintainable code and designing scalable systems. Whether it's a mobile app, a web dashboard, or a full-stack enterprise solution, I bring ideas to life with performance and polish.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Mobile:** Flutter (Dart), Android Native (Kotlin/Java), Swift (iOS)
+- **Web:** ASP.NET MVC, Razor Views, Flutter Web
+- **Backend:** C#, REST APIs, Firebase, .NET
+- **Databases:** Oracle, MS SQL Server
+- **Architecture:** MVVM, MVC, Clean Architecture, Dependency Injection
+- **Tools:** Git, GitHub, Postman, VS Code, Android Studio, Visual Studio
+
+---
+
+## 🔥 Projects
+
+### 📱 [Weather App (Flutter)](https://github.com/your-username/weather-app)
+A real-time weather app with geolocation, Provider state management, and Clean Architecture.
+
+> 🛠 Flutter • Provider • MVVM • Geolocator • REST API
+
+---
+
+### 📦 [Inventory Audit App](https://github.com/your-username/inventory-audit)
+Android app for managing outlet inventory audits, integrated with Magento backend.
+
+> 🛠 Kotlin • MVVM • Retrofit • Room • Firebase
+
+---
+
+### 🧾 [UDF Form Builder (ASP.NET MVC)](https://github.com/your-username/form-builder)
+Dynamic form generator and renderer using Oracle backend with ASP.NET MVC.
+
+> 🛠 ASP.NET MVC • Oracle SQL • Entity Framework • jQuery
+
+---
+
+## 🧾 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_rank=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/your-username?style=social" />
+  <img src="https://img.shields.io/github/stars/your-username?style=social" />
+</p>
+
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
