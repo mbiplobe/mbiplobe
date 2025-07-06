@@ -59,9 +59,8 @@ Dynamic form generator and renderer using Oracle backend with ASP.NET MVC.
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
+- 💼 [LinkedIn](https://linkedin.com/in/mbiplobe)
+- 📧 Email: [your.email@example.com](mailto:mbiplobe@gmail.com)
 
 ---
 
