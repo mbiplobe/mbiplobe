@@ -27,7 +27,7 @@ I’m Md. Mujahid Islam, a Senior Software Engineer at United Finance PLC with o
 
 ## 🔥 Projects
 
-### 📱 [Weather App (Flutter)](https://github.com/your-username/weather-app)
+### 📱 [Weather App (Flutter)](https://github.com/mbiplobe/weather_in_mvvm_flutter)
 A real-time weather app with geolocation, Provider state management, and Clean Architecture.
 
 > 🛠 Flutter • Provider • MVVM • Geolocator • REST API
