@@ -47,15 +47,6 @@ Android app for managing outlet inventory audits, integrated with Magento backen
 
 ---
 
-## 🧾 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_rank=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/mbiplobe)
