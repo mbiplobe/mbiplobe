@@ -28,21 +28,23 @@ I’m Md. Mujahid Islam, a Senior Software Engineer at United Finance PLC with o
 ## 🔥 Projects
 
 ### 📱 [Weather App (Flutter)](https://github.com/mbiplobe/weather_in_mvvm_flutter)
-A real-time weather app with geolocation, Provider state management, and Clean Architecture.
+The Weather Forecaster application has been designed to provide users with the latest weather updates. I am serving as the Lead Developer for this project, responsible for overseeing the development of the application. The application is being developed using Flutter and follows the MVVM architectural pattern to ensure scalability, maintainability, and efficient code management.
 
-> 🛠 Flutter • Provider • MVVM • Geolocator • REST API
+> 🛠 Flutter • Provider • MVVM • Geolocator • Open Weather API
 
 ---
 
 ### 📦 [Flutter News App](https://github.com/mbiplobe/flutter_news_app.git)
 Android app for managing outlet inventory audits, integrated with Magento backend.
 A Flutter News Application built with MVVM architecture, the Repository Pattern, and Riverpod for state management. It features a Home page showing top news from NewsAPI.org, category-based browsing (Technology, Entertainment, Sports, Health, Business, etc.), and a smooth, responsive UI with animations, gestures, and dual themes (light/dark). The architecture ensures clean separation of concerns with a Repository layer for data access, ViewModels (via Riverpod) handling state and logic, and Views focused on UI rendering. Built with Flutter and powered by Dio/HTTP for API integration, the app is cross-platform, scalable, and designed for maintainability and future expansion.
-> 🛠 Flutter • Dart • Dependency Injection • Riverpod •Repository Pattern  • Firebase
+
+> 🛠 Flutter • Dart • Dependency Injection • Riverpod •Repository Pattern  • Firebase • News Api
 
 ---
 
 ### 🧾 [Health Care Mobile Apps (Flutter MVVM)](https://github.com/mbiplobe/flutter_healthcare_app)
 This application provides healthcare-related services, originally forked from the Healthcare Mobile App but extensively redesigned and restructured. Migrated from a basic Model-View (MV) to a robust Model-View-ViewModel (MVVM) architecture, it ensures better separation of concerns, improved testability, and easier maintenance. Built with Flutter, the project focuses on delivering a modern, efficient, and scalable healthcare platform with flexibility for future growth.
+
 > 🛠 Flutter • MVVM • Dart • Provider • Dependency Injection • Firebase • Repository Pattern • SQLite 
 
 ---
