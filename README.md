@@ -35,8 +35,7 @@ The Weather Forecaster application has been designed to provide users with the l
 ---
 
 ### 📦 [Flutter News App](https://github.com/mbiplobe/flutter_news_app.git)
-Android app for managing outlet inventory audits, integrated with Magento backend.
-A Flutter News Application built with MVVM architecture, the Repository Pattern, and Riverpod for state management. It features a Home page showing top news from NewsAPI.org, category-based browsing (Technology, Entertainment, Sports, Health, Business, etc.), and a smooth, responsive UI with animations, gestures, and dual themes (light/dark). The architecture ensures clean separation of concerns with a Repository layer for data access, ViewModels (via Riverpod) handling state and logic, and Views focused on UI rendering. Built with Flutter and powered by Dio/HTTP for API integration, the app is cross-platform, scalable, and designed for maintainability and future expansion.
+This Flutter News Application is developed using the MVVM (Model–View–ViewModel) architecture, the Repository Pattern, and Riverpod for state management. It features a Home Page displaying the latest news from NewsAPI.org, a Category Page for browsing topics such as Technology, Entertainment, Sports, Health, and Business, and a responsive, cross-platform UI with smooth gestures and elegant animations. The architecture ensures a clean separation of concerns, with the Repository layer handling data access and API integration, ViewModels managing state and business logic via Riverpod, and Views dedicated to rendering the user interface. Leveraging Riverpod provides robust state management, streamlined dependency injection, enhanced testability, and scalability. The application is built with Flutter, uses Dio/HTTP for networking, and is structured to support maintainable and extensible development.
 
 > 🛠 Flutter • Dart • Dependency Injection • Riverpod •Repository Pattern  • Firebase • News Api
 
