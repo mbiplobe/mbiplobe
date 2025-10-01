@@ -34,7 +34,7 @@ A real-time weather app with geolocation, Provider state management, and Clean A
 
 ---
 
-### 📦 [Inventory Audit App](https://github.com/your-username/inventory-audit)
+### 📦 [Flutter News App](https://github.com/mbiplobe/flutter_news_app.git)
 Android app for managing outlet inventory audits, integrated with Magento backend.
 
 > 🛠 Kotlin • MVVM • Retrofit • Room • Firebase
