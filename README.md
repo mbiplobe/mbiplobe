@@ -42,8 +42,8 @@ Android app for managing outlet inventory audits, integrated with Magento backen
 ---
 
 ### 🧾 [Health Care Mobile Apps (Flutter MVVM)](https://github.com/mbiplobe/flutter_healthcare_app)
-
-> 🛠 Flutter • MVVM • Sqlite • Dart 
+This application provides healthcare-related services, originally forked from the Healthcare Mobile App but extensively redesigned and restructured. Migrated from a basic Model-View (MV) to a robust Model-View-ViewModel (MVVM) architecture, it ensures better separation of concerns, improved testability, and easier maintenance. Built with Flutter, the project focuses on delivering a modern, efficient, and scalable healthcare platform with flexibility for future growth.
+> 🛠 Flutter • MVVM • Dart • Provider • Dependency Injection • Firebase • Repository Pattern • SQLite 
 
 ---
 
