@@ -36,8 +36,8 @@ A real-time weather app with geolocation, Provider state management, and Clean A
 
 ### 📦 [Flutter News App](https://github.com/mbiplobe/flutter_news_app.git)
 Android app for managing outlet inventory audits, integrated with Magento backend.
-
-> 🛠 Kotlin • MVVM • Retrofit • Room • Firebase
+A Flutter News Application built with MVVM architecture, the Repository Pattern, and Riverpod for state management. It features a Home page showing top news from NewsAPI.org, category-based browsing (Technology, Entertainment, Sports, Health, Business, etc.), and a smooth, responsive UI with animations, gestures, and dual themes (light/dark). The architecture ensures clean separation of concerns with a Repository layer for data access, ViewModels (via Riverpod) handling state and logic, and Views focused on UI rendering. Built with Flutter and powered by Dio/HTTP for API integration, the app is cross-platform, scalable, and designed for maintainability and future expansion.
+> 🛠 Flutter • Dart • Dependency Injection • Riverpod •Repository Pattern  • Firebase
 
 ---
 
