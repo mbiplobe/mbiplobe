@@ -22,12 +22,13 @@ Currently working at United Finance PLC. in System Development & Project Managem
 
 ## 🛠️ Tech Stack
 
-- **Mobile:** Flutter (Dart), Android Native (Kotlin/Java), Swift (iOS)
-- **Web:** ASP.NET MVC, Razor Views, Flutter Web
-- **Backend:** C#, REST APIs, Firebase, .NET
-- **Databases:** Oracle, MS SQL Server
-- **Architecture:** MVVM, MVC, Clean Architecture, Dependency Injection
-- **Tools:** Git, GitHub, Postman, VS Code, Android Studio, Visual Studio
+- **Backend:** C#, ASP.NET Core, ASP.NET MVC, REST APIs, .NET, Entity Framework, JWT Authentication, RBAC, Firebase
+- **Web:** ASP.NET MVC, Razor Views, JavaScript, jQuery, AJAX, Bootstrap, Flutter Web
+- **Mobile:** Flutter (Dart), Android Native (Kotlin/Java)
+- **Databases:** Microsoft SQL Server, Oracle, PL/SQL, MySQL, SQLite
+- **Architecture:** Clean Architecture, MVC, MVVM, SOLID Principles, Dependency Injection, Repository Pattern
+- **Tools & Platforms:** Git, GitHub, Postman, Swagger, TFS, VS Code, Visual Studio, Android Studio
+- **Enterprise Expertise:** Banking Systems, eKYC Verification, Financial Workflow Automation, Transaction Management Systems, Dynamic Reporting Systems, Secure Enterprise Applications
 
 ---
 
