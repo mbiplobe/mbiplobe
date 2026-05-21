@@ -8,15 +8,15 @@ Currently working at United Finance PLC. in System Development & Project Managem
 ---
 
 ## 🔹 Expertise
-ASP.NET Core & ASP.NET MVC
-REST API Development
-SQL Server & Database Optimization
-Authentication & Authorization (JWT, RBAC, OTP)
-Clean Architecture & SOLID Principles
-Financial & Banking Systems
-Oracle & PL/SQL
-Java Enterprise Systems
-Flutter Mobile Applications
+- ASP.NET Core & ASP.NET MVC
+- REST API Development
+- SQL Server & Database Optimization
+- Authentication & Authorization (JWT, RBAC, OTP)
+- Clean Architecture & SOLID Principles
+- Financial & Banking Systems
+- Oracle & PL/SQL
+- Java Enterprise Systems
+- Flutter Mobile Applications
 
 ---
 
