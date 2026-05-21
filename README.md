@@ -7,9 +7,16 @@ Currently working at United Finance PLC. in System Development & Project Managem
 
 ---
 
-## 🚀 About Me
-
-I’m Md. Mujahid Islam, a Senior Software Engineer at United Finance PLC with over 9 years of experience in software engineering. I specialize in developing scalable native, cross-platform, and enterprise-grade applications using Flutter (Dart), Android (Java), iOS (SwiftUI), ASP.NET (C#), Oracle (PL/SQL), and MS SQL Server. I emphasize clean architecture principles (SOLID, MVC, MVP, MVVM), high performance, and robust system design to deliver efficient and maintainable software solutions.
+## 🔹 Expertise
+ASP.NET Core & ASP.NET MVC
+REST API Development
+SQL Server & Database Optimization
+Authentication & Authorization (JWT, RBAC, OTP)
+Clean Architecture & SOLID Principles
+Financial & Banking Systems
+Oracle & PL/SQL
+Java Enterprise Systems
+Flutter Mobile Applications
 
 ---
 
