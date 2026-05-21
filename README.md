@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Mujahid Islam 👋</h1>
+<h1 align="center">Hi there 👋 I'm Mujahid Islam</h1>
 
 <p align="center">
-  💻 Full-Stack Software Engineer | Mobile + Web Development<br>
-  📱 Flutter • Android • ASP.NET MVC • Oracle • SQL • Kotlin • Swift • C#<br>
-  🧠 Clean Architecture • MVVM • MVC • REST APIs
+Senior ASP.NET Core Developer with 10+ years of experience building secure banking, financial, and enterprise applications.
+Currently working at United Finance PLC. in System Development & Project Management, developing production-grade financial systems and enterprise solutions.
 </p>
 
 ---
