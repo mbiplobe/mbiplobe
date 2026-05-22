@@ -35,9 +35,9 @@ Currently working at United Finance PLC. in System Development & Project Managem
 ## 🔥 Projects
 
 ### 📱 [banking-onboarding-system-architecture]([https://github.com/mbiplobe/banking-onboarding-system-architecture.git])
-The Weather Forecaster application has been designed to provide users with the latest weather updates. I am serving as the Lead Developer for this project, responsible for overseeing the development of the application. The application is being developed using Flutter and follows the MVVM architectural pattern to ensure scalability, maintainability, and efficient code management.
+Enterprise-grade digital onboarding platform for financial institutions featuring secure ASP.NET Core APIs, Core Banking System (CBS) integration, E-KYC workflows, biometric verification, and scalable distributed architecture. Focused on secure onboarding automation, workflow orchestration, and enterprise service integration.
 
-> 🛠 Flutter • Provider • MVVM • Geolocator • Open Weather API
+> 🛠 ASP.NET Core, .NET 9, Clean Architecture, REST APIs, ADO.NET, JWT Authentication, MS SQL Server, Oracle Database, Kotlin Multiplatform, Biometric Verification, Distributed Service Architecture, Secure API Design, Enterprise Financial Systems
 
 ---
 
