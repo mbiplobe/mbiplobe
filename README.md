@@ -34,7 +34,7 @@ Currently working at United Finance PLC. in System Development & Project Managem
 
 ## 🔥 Projects
 
-### 🏛 [Enterprise Banking Solution](https://github.com/mbiplobe/banking-onboarding-system-architecture.git)
+### 🏛 [Smart Mobile Banking Application](https://github.com/mbiplobe/banking-onboarding-system-architecture.git)
 Enterprise-grade digital onboarding platform for financial institutions featuring secure ASP.NET Core APIs, Core Banking System (CBS) integration, E-KYC workflows, biometric verification, and scalable distributed architecture. Focused on secure onboarding automation, workflow orchestration, and enterprise service integration.
 
 > 🛠 ASP.NET Core, .NET 9, Clean Architecture, REST APIs, ADO.NET, JWT Authentication, MS SQL Server, Oracle Database, Kotlin Multiplatform, Biometric Verification, Distributed Service Architecture, Secure API Design, Enterprise Financial Systems
