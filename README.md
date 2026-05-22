@@ -34,6 +34,14 @@ Currently working at United Finance PLC. in System Development & Project Managem
 
 ## 🔥 Projects
 
+### 📱 [banking-onboarding-system-architecture]([https://github.com/mbiplobe/banking-onboarding-system-architecture.git])
+The Weather Forecaster application has been designed to provide users with the latest weather updates. I am serving as the Lead Developer for this project, responsible for overseeing the development of the application. The application is being developed using Flutter and follows the MVVM architectural pattern to ensure scalability, maintainability, and efficient code management.
+
+> 🛠 Flutter • Provider • MVVM • Geolocator • Open Weather API
+
+---
+
+
 ### 📱 [Weather App (Flutter)](https://github.com/mbiplobe/weather_in_mvvm_flutter)
 The Weather Forecaster application has been designed to provide users with the latest weather updates. I am serving as the Lead Developer for this project, responsible for overseeing the development of the application. The application is being developed using Flutter and follows the MVVM architectural pattern to ensure scalability, maintainability, and efficient code management.
 
