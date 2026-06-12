@@ -45,16 +45,15 @@ C#, ASP.NET Core, .NET MVC, Entity Framework Core, Web API, RESTful APIs, Signal
 
 ## 🔥 Projects
 
-### 🏛 [Smart Mobile Banking Application](https://github.com/mbiplobe/banking-onboarding-system-architecture.git)
-Enterprise-grade digital onboarding platform for financial institutions featuring secure ASP.NET Core APIs, Core Banking System (CBS) integration, E-KYC workflows, biometric verification, and scalable distributed architecture. Focused on secure onboarding automation, workflow orchestration, and enterprise service integration.
-
-> 🛠 ASP.NET Core, .NET 9, Clean Architecture, REST APIs, ADO.NET, JWT Authentication, MS SQL Server, Oracle Database, Kotlin Multiplatform, Biometric Verification, Distributed Service Architecture, Secure API Design, Enterprise Financial Systems
-
----
 ### 🏛 [Schola](https://github.com/mbiplobe/Schola.git)
 Schola is a modern, high-performance school management ecosystem designed to streamline the complexities of educational administration. Built with enterprise-grade software design patterns and a robust technical stack, the platform ensures scalability, strict maintainability, and top-tier transactional performance.
 
 > 🛠 ASP.NET Core, .NET 9, Clean Architecture,Entity Framework Core (EF Core), REST APIs, JWT Authentication, MS SQL Server
+
+### 🏛 [Smart Mobile Banking Application](https://github.com/mbiplobe/banking-onboarding-system-architecture.git)
+Enterprise-grade digital onboarding platform for financial institutions featuring secure ASP.NET Core APIs, Core Banking System (CBS) integration, E-KYC workflows, biometric verification, and scalable distributed architecture. Focused on secure onboarding automation, workflow orchestration, and enterprise service integration.
+
+> 🛠 ASP.NET Core, .NET 9, Clean Architecture, REST APIs, ADO.NET, JWT Authentication, MS SQL Server, Oracle Database, Kotlin Multiplatform, Biometric Verification, Distributed Service Architecture, Secure API Design, Enterprise Financial Systems
 
 ---
 
