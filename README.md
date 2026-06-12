@@ -1,34 +1,45 @@
 <h1 align="center">Hi there 👋 I'm Mujahid Islam</h1>
 
 <p align="center">
-Senior ASP.NET Core Developer with 10+ years of experience building secure banking, financial, and enterprise applications.
-Currently working at United Finance PLC. in System Development & Project Management, developing production-grade financial systems and enterprise solutions.
+I am a highly driven software engineering professional specializing in secure banking, financial, and enterprise applications. Currently working in System Development & Project Management at United Finance PLC, I architect, develop, and maintain business-critical financial systems used in high-traffic production environments. With over a decade of experience, I excel at bridging the gap between complex financial workflows and scalable, secure technical solutions.
 </p>
 
 ---
-
-## 🔹 Expertise
-- ASP.NET Core & ASP.NET MVC
-- REST API Development
-- SQL Server & Database Optimization
-- Authentication & Authorization (JWT, RBAC, OTP)
+## ⚙️ BACKEND & ARCHITECTURE 
+- NET Framework, ASP.NET Core, C# 
+- Microservices & Distributed Systems 
+- Scalable REST API & Backend Integration 
+- Secure Auth (JWT, OAuth) & Role-Based Access Control
 - Clean Architecture & SOLID Principles
-- Financial & Banking Systems
-- Oracle & PL/SQL
-- Java Enterprise Systems
-- Flutter Mobile Applications
+ 
+## 🛢️ DATABASE & INFRASTRUCTURE
+- Database Architecture & Data Modeling 
+- SQL Server Performance Tuning 
+- Enterprise Oracle Databases, PL/SQL, MSSQL, MySQL
+ 
+## 🖼️ FRONTEND DEVELOPMENT
+- Flutter Application Development
+- Android Application Development
+- Responsive Web Design (HTML5, CSS3, Bootstrap) 
+- AJAX & REST API Integration 
+- Intuitive UI/UX Implementation 
 
----
 
-## 🛠️ Tech Stack
+## 🌐 DOMAIN EXPERTISE (FinTech & Banking) 
+- Core Banking Systems (CBS) Support & Troubleshooting 
+- Mobile Banking Applications & Transaction Management 
+- eKYC (NID, Passport, Birth Certificate & Face Verification) 
+- Dynamic Financial Reporting & Workflow Automation 
+- Sanction Screening & Risk Verification
+ 
+## 💼 SERVICES & LEADERSHIP 
+Beyond coding, I provide comprehensive product lifecycle management—from initial system design and backend API engineering to infrastructure scaling, security compliance, and long-term application maintenance. I also bring hands-on experience integrating Java-based systems within financial environments.
 
-- **Backend:** C#, ASP.NET Core, ASP.NET MVC, REST APIs, .NET, Entity Framework, JWT Authentication, RBAC, Firebase
-- **Web:** ASP.NET MVC, Razor Views, JavaScript, jQuery, AJAX, Bootstrap, Flutter Web
-- **Mobile:** Flutter (Dart), Android Native (Kotlin/Java)
-- **Databases:** Microsoft SQL Server, Oracle, PL/SQL, MySQL, SQLite
-- **Architecture:** Clean Architecture, MVC, MVVM, SOLID Principles, Dependency Injection, Repository Pattern
-- **Tools & Platforms:** Git, GitHub, Postman, Swagger, TFS, VS Code, Visual Studio, Android Studio
-- **Enterprise Expertise:** Banking Systems, eKYC Verification, Financial Workflow Automation, Transaction Management Systems, Dynamic Reporting Systems, Secure Enterprise Applications
+## 📫 LET'S CONNECT 
+Whether you are looking for a reliable backend developer to build secure and scalable enterprise applications, or a technical partner for your next FinTech project, feel free to reach out or send a direct message.
+ 
+## 🛠️ TECH STACK & CORE SKILLS 
+C#, ASP.NET Core, .NET MVC, Entity Framework Core, Web API, RESTful APIs, SignalR, Microservices, SQL Server, Oracle, PL/SQL, SQLite, Java, JavaScript, jQuery, Flutter, Android, Git, TFS, Clean Architecture, Performance Optimization.
 
 ---
 
