@@ -78,6 +78,13 @@ This application provides healthcare-related services, originally forked from th
 
 ---
 
+### 🧠 Problem Solving
+
+- LeetCode: https://leetcode.com/u/mbiplobe/
+- GitHub: https://github.com/yourusername
+- Codeforces: (if applicable)
+- HackerRank: (if applicable)
+
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/mbiplobe)
